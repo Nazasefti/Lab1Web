@@ -41,9 +41,7 @@
 
 ![Screenshot (13)](https://github.com/Nazasefti/Lab1Web/assets/115772516/3648558b-55bc-46cb-8216-21dad367c77c)
 
-## Menambahkan Logo
 
-## Input
 
 
 
